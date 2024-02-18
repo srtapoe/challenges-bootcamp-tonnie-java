@@ -3,7 +3,7 @@
 Nesse repositório estão(estarão) minhas soluções para os desafios
 do Bootcampo Tonnie Java de nível intermediário.
 ---
-#### Desafios concluídos ou não👽
+#### Desafios concluídos ou não 👽
 
 - [x]  [Padronizando um Sistema de Gerenciamento de Usuários](https://github.com/srtapoe/challenges-bootcamp-tonnie-java/tree/master/src/main/java/org/challanges/designpatterns/sistemagerenciamento)
 - [ ]  Implementando uma Calculadora Simples com Padrão Strategy
