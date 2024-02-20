@@ -6,7 +6,7 @@ do Bootcampo Tonnie Java de nível intermediário.
 #### Desafios concluídos ou não 👽
 
 - [x]  [Padronizando um Sistema de Gerenciamento de Usuários](https://github.com/srtapoe/challenges-bootcamp-tonnie-java/tree/master/src/main/java/org/challanges/designpatterns/sistemagerenciamento)
-- [ ]  Implementando uma Calculadora Simples com Padrão Strategy
+- [x]  [Implementando uma Calculadora Simples com Padrão Strategy](https://github.com/srtapoe/challenges-bootcamp-tonnie-java/tree/master/src/main/java/org/challanges/designpatterns/calculadorasimples)
 - [ ]  Implementando um Catálogo de Produtos com Padrão Observer
 - [ ]  Implementando um Carrinho de Compras com Padrão Strategy
 - [ ]  Implementando um Adaptador para Conversão de Moedas
